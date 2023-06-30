@@ -1,6 +1,6 @@
 # London-Bikes-Ride
 ## Preparing and visualising cycling data in London with Tableau
-For this project, I used data from Kaggle https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset. In the Python file, I prepared the data for visualisation, using the pandas library. After that, I exported the data to .xlsx format and used the Excel file in Tableau. In Tableau, I created 5 sheets and 1 final dashboard.
+For this project, I used data from Kaggle https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset. In the Jupyter file, I prepared the data for visualisation, using the pandas library. After that, I exported the data to .xlsx format and used the Excel file in Tableau. In Tableau, I created 5 sheets and 1 final dashboard.
 
 ### Average Moving Sheet.
 Here I created a line graph to visualise the relationship between average rides and average period. I also added a function to filter selected values using min month and max month.
